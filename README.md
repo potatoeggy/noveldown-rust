@@ -1,3 +1,3 @@
-# Noveldown (Rust rewrite)
+# Noveldown
 
 Rewrite in rust baby
